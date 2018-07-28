@@ -1,0 +1,8 @@
+<Ui>
+	<Script file='TaxiData.lua'/>
+	<Script file='LinePool.lua'/>
+	<Script file='WorldFlightMapPinMixin.lua'/>
+	<Script file='WorldFlightMapProvider.lua'/>
+
+	<Button name='WorldFlightMapPinTemplate' mixin='WorldFlightMapPinMixin' enableMouse='true' virtual='true'/>
+</Ui>
